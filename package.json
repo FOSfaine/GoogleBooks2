@@ -26,7 +26,7 @@
     "client": "cd client && npm run start",
     "seed": "node scripts/seedDB.js",
     "install": "cd client && npm install",
-    "build": "cd client && react-scripts build",
+    "build": "react-scripts build",
     "heroku-postbuild": "npm run build"
   }
 }
