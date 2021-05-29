@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
-  "homepage": "https://fosfaine.github.io/GoogleBooks2/",
+  "homepage": "https://fosfaine.github.io/GoogleBooks2",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
